@@ -5,6 +5,7 @@ module.exports = {
       dependencies: {
         ember: '~1.8.0',
         handlebars: '~1.3.0',
+        'ember-data': '1.0.0-beta.11',
       }
     },
     {
@@ -12,6 +13,7 @@ module.exports = {
       dependencies: {
         ember: '~1.9.0',
         handlebars: '~2.0.0',
+        'ember-data': '1.0.0-beta.11'
       }
     },
     {
