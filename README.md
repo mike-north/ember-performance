@@ -1,5 +1,7 @@
 # Ember-performance
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mike-north/ember-performance.svg)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
